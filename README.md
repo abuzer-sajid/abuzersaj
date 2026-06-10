@@ -1,5 +1,5 @@
 # 💫 About Me:
-Security Engineer with 2+ years in Application Security, AI Security, Web/API Pentesting, Cloud Security (AWS), and Detection Engineering.<br>Focused on building AI-powered security tooling, runtime protection, and automated remediation systems.<br>Actively working on AI Self-Healing Security Engines, Purple Team automation, and AI-assisted SOC platforms.<br>Strong in Python, FastAPI, Docker, CI/CD, SAST/DAST, OWASP Top 10, MITRE ATT&CK, and secure system design.
+Security Engineer with 3+ years in Application Security, AI Security, Web/API Pentesting, Cloud Security (AWS), and Detection Engineering.<br>Focused on building AI-powered security tooling, runtime protection, and automated remediation systems.<br>Actively working on AI Self-Healing Security Engines, Purple Team automation, and AI-assisted SOC platforms.<br>Strong in Python, FastAPI, Docker, CI/CD, SAST/DAST, OWASP Top 10, MITRE ATT&CK, and secure system design.
 
 
 ## 🌐 Socials:
